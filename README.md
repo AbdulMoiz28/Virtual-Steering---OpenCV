@@ -2,7 +2,7 @@
 
 Virtual Steering with OpenCV refers to a computer vision-based system that enables hands-free steering control in various applications, such as virtual reality (VR) or human-computer interaction. OpenCV, an open-source computer vision library, plays a crucial role in implementing this technology.
 
-![image](https://github.com/AbdulMoiz28/Virtual-Assistant_AI-Jarvis/assets/98760302/d7b20032-b409-463a-92f4-680bee35909e)
+![image](https://github.com/AbdulMoiz28/Virtual-Steering---OpenCV/blob/main/VirtualSteering/VS.png)
 
 The system typically uses a camera to capture the user's hand movements or gestures. OpenCV processes the video feed to identify and track the user's hand in real-time. Through image processing techniques, it extracts relevant features, such as the position and orientation of the hand.
 
